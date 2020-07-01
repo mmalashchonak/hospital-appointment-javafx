@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tickets-db>
+
+<ticket cabinet="123" clientComment="dthdthbstdgbdsrbdbd" clientFirstName="Ivan" clientId="2" clientLastName="Ivanov" date="2020-06-29" doctorComment="fsrgsrgsrhgsrsg4wg4sgfs4frsfrs" doctorFirstName="Andrey" doctorId="3" doctorLastName="Larin" id="5" isFinished="true" rating="2" time="8:00"/>
+<ticket cabinet="123" clientComment="dstnfynfynfyvsrvsrb" clientFirstName="Ivan" clientId="2" clientLastName="Ivanov" date="2020-06-30" doctorComment="gdsnbfnsfnf" doctorFirstName="Andrey" doctorId="3" doctorLastName="Larin" id="6" isFinished="true" rating="2" time="8:00"/>
+<ticket cabinet="432" clientComment="" clientFirstName="Ivan" clientId="2" clientLastName="Ivanov" date="2020-07-02" doctorComment="" doctorFirstName="Mike" doctorId="12" doctorLastName="Lux" id="8" isFinished="false" rating="" time="9:00"/>
+
+<ticket cabinet="123" clientComment="" clientFirstName="Ivan" clientId="2" clientLastName="Ivanov" date="2020-07-01" doctorComment="" doctorFirstName="Andrey" doctorId="3" doctorLastName="Larin" id="11" isFinished="false" rating="" time="11:00"/>
+<ticket cabinet="432" clientComment="" clientFirstName="Ivan" clientId="2" clientLastName="Ivanov" date="2020-07-02" doctorComment="" doctorFirstName="Mike" doctorId="12" doctorLastName="Lux" id="15" isFinished="false" rating="" time="15:00"/>
+</tickets-db>

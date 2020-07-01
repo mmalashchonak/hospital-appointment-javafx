@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients-db>
+
+<person firstName="Ivan" id="2" lastName="Ivanovas" login="p1" password="123"/>
+<person firstName="Sidor" id="4" lastName="Sidorov" login="p2" password="123"/>
+<person firstName="Artem" id="13" lastName="Lotarev" login="p3" password="123"/>
+</clients-db>

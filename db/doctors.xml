@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doctors-db>
+
+<person cabinet="123" firstName="Andrey" id="3" lastName="Larinov" login="d1" password="123"/>
+<person cabinet="432" firstName="Mike" id="12" lastName="Lux" login="d2" password="123"/>
+</doctors-db>
